@@ -2,7 +2,7 @@
 
 Welcome to my research project!
 
-This github contains many (somewhat) organized patches within VCV Rack 2.0These patches hopefully will help in demonstrating some of the fundamental concepts of modular synthesis and sound design in general
+This github contains many (somewhat) organized patches within VCV Rack 2.0. These patches hopefully will help in demonstrating some of the fundamental concepts of modular synthesis and sound design in general
 
 Before opening any make sure to check the 'Module Master List' and subscribe to the libraries I've listed there. Some of the modules are rarely used, but I think its a decent set of modules to explore anyway.
 
